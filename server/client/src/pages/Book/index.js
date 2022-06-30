@@ -23,7 +23,7 @@ export default function Book (){
                         </h1>
                         <ul>
                                 <li>
-                                <strong>Title:</strong>
+                                        <strong>Title:</strong>
                                         <p>Docker Dip Diver</p>
                                         <strong>Author:</strong>
                                         <p>Nigel Poulton</p>
@@ -31,7 +31,6 @@ export default function Book (){
                                         <p>R$ 47</p>
                                         <strong>Release Date:</strong>
                                         <p>12/07/2017</p>
-
                                         <button type="button">
                                                 <FiEdit size={20} color="#251fc5"/>
                                         </button>
@@ -39,7 +38,74 @@ export default function Book (){
                                         <button type="button">
                                                 <FiTrash2 size={20} color="#251fc5"/>
                                         </button>
-                                       
+                                </li>
+                                <li>
+                                        <strong>Title:</strong>
+                                        <p>Docker Dip Diver</p>
+                                        <strong>Author:</strong>
+                                        <p>Nigel Poulton</p>
+                                        <strong>Price</strong>
+                                        <p>R$ 47</p>
+                                        <strong>Release Date:</strong>
+                                        <p>12/07/2017</p>
+                                        <button type="button">
+                                                <FiEdit size={20} color="#251fc5"/>
+                                        </button>
+                                        
+                                        <button type="button">
+                                                <FiTrash2 size={20} color="#251fc5"/>
+                                        </button>
+                                </li>
+                                <li>
+                                        <strong>Title:</strong>
+                                        <p>Docker Dip Diver</p>
+                                        <strong>Author:</strong>
+                                        <p>Nigel Poulton</p>
+                                        <strong>Price</strong>
+                                        <p>R$ 47</p>
+                                        <strong>Release Date:</strong>
+                                        <p>12/07/2017</p>
+                                        <button type="button">
+                                                <FiEdit size={20} color="#251fc5"/>
+                                        </button>
+                                        
+                                        <button type="button">
+                                                <FiTrash2 size={20} color="#251fc5"/>
+                                        </button>
+                                </li>
+                                <li>
+                                        <strong>Title:</strong>
+                                        <p>Docker Dip Diver</p>
+                                        <strong>Author:</strong>
+                                        <p>Nigel Poulton</p>
+                                        <strong>Price</strong>
+                                        <p>R$ 47</p>
+                                        <strong>Release Date:</strong>
+                                        <p>12/07/2017</p>
+                                        <button type="button">
+                                                <FiEdit size={20} color="#251fc5"/>
+                                        </button>
+                                        
+                                        <button type="button">
+                                                <FiTrash2 size={20} color="#251fc5"/>
+                                        </button>
+                                </li>
+                                <li>
+                                        <strong>Title:</strong>
+                                        <p>Docker Dip Diver</p>
+                                        <strong>Author:</strong>
+                                        <p>Nigel Poulton</p>
+                                        <strong>Price</strong>
+                                        <p>R$ 47</p>
+                                        <strong>Release Date:</strong>
+                                        <p>12/07/2017</p>
+                                        <button type="button">
+                                                <FiEdit size={20} color="#251fc5"/>
+                                        </button>
+                                        
+                                        <button type="button">
+                                                <FiTrash2 size={20} color="#251fc5"/>
+                                        </button>
                                 </li>
                         </ul>
 
