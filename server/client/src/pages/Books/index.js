@@ -1,10 +1,11 @@
-import React from 'react';
-import { Link } from 'react-router-dom';
-import { FiPower , FiEdit , FiTrash2} from 'react-icons/fi';
+import React, {useState , useEffect} from 'react';
+import { Link, useHistory } from 'react-router-dom';
+import { FiPower , FiEdit , FiTrash2} from 'react-icons/fi'
+import api from '../../services/api';
 import './styles.css'
 import logoImage from '../../assets/logo.svg'
 
-export default function Book (){
+export default function Books (){
     
         return(
                 <div className='book-container'>
