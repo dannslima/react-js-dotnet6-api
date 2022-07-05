@@ -3,7 +3,7 @@ import { useHistory } from 'react-router-dom';
 
 import api from '../../services/api';
 
-import './style.css';
+import './styles.css';
 
 import logoImage from '../../assets/logo.svg'
 import padlock from '../../assets/padlock.png'
